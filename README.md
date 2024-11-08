@@ -1,6 +1,6 @@
 # Health Connect Bot
 
-## Description
+# Description
 A specialized healthcare chatbot trained specifically on medical data using LangChain and a graph database, designed to provide secure access to patient medical histories, allergies, procedures, and claim information. 
 The model is also capable of answering user questions based on medical knowledge, offering tailored responses to healthcare-related queries
 ---
